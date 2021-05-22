@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+   background-color: rgb(199, 233, 10);
+}
+
+#head {
+    margin-top: 30px;
+    color: darkred;
+    font-weight: bold;
+    font-family: 'Goblin One', cursive;
+    font-size: 49px;
+}
+
+#cover {
+    margin-top: 20px;
+height: 400px;
+
+}
+#Next {
+    background-color: indigo;
+    width: 150px;
+    height: 30px;
+    color: ivory;
+    font-weight: bold;
+    margin-top: 10px;
+}
+#Names {
+    margin-top: 20px;
+    color:darkblue;
+    font-weight: bold;
+    font-family: 'Goblin One', cursive;
+    font-size: 35px;
+}
